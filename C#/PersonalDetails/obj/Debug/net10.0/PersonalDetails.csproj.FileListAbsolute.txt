@@ -1,0 +1,15 @@
+/Users/mayam/Downloads/C#/PersonalDetails/bin/Debug/net10.0/PersonalDetails
+/Users/mayam/Downloads/C#/PersonalDetails/bin/Debug/net10.0/PersonalDetails.deps.json
+/Users/mayam/Downloads/C#/PersonalDetails/bin/Debug/net10.0/PersonalDetails.runtimeconfig.json
+/Users/mayam/Downloads/C#/PersonalDetails/bin/Debug/net10.0/PersonalDetails.dll
+/Users/mayam/Downloads/C#/PersonalDetails/bin/Debug/net10.0/PersonalDetails.pdb
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.AssemblyInfoInputs.cache
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.AssemblyInfo.cs
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.csproj.CoreCompileInputs.cache
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.sourcelink.json
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.dll
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/refint/PersonalDetails.dll
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.pdb
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/PersonalDetails.genruntimeconfig.cache
+/Users/mayam/Downloads/C#/PersonalDetails/obj/Debug/net10.0/ref/PersonalDetails.dll

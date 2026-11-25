@@ -1,0 +1,15 @@
+/Users/mayam/Downloads/C#/demo/bin/Debug/net10.0/demo
+/Users/mayam/Downloads/C#/demo/bin/Debug/net10.0/demo.deps.json
+/Users/mayam/Downloads/C#/demo/bin/Debug/net10.0/demo.runtimeconfig.json
+/Users/mayam/Downloads/C#/demo/bin/Debug/net10.0/demo.dll
+/Users/mayam/Downloads/C#/demo/bin/Debug/net10.0/demo.pdb
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.AssemblyInfoInputs.cache
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.AssemblyInfo.cs
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.csproj.CoreCompileInputs.cache
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.sourcelink.json
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.dll
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/refint/demo.dll
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.pdb
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/demo.genruntimeconfig.cache
+/Users/mayam/Downloads/C#/demo/obj/Debug/net10.0/ref/demo.dll
